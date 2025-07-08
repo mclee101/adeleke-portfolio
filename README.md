@@ -189,7 +189,7 @@ Built predictive models using Excel forecasting and Power BI to reveal hidden pa
 | SAP FI (AP)      | Power BI, Tableau, Excel | SQL, DAX, Excel formulas |
 
 ## 📫 Let's Connect
-📄 [Visit my linkedin](https://www.linkedin.com/in/adebayo-msc-csca-b1b6962a4)  
-🌐 [Visit My Portfolio](https://www.hectraresources.com)
+📄 [Visit my linkedin](https://www.linkedin.com/in/)  
+🌐 [Visit My Portfolio](https://www.hects.com)
 
 Open to collaboration and insights that turn finance data into strategy.

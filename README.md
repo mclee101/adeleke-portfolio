@@ -142,21 +142,41 @@ Built predictive models using Excel forecasting and Power BI to reveal hidden pa
 
 ## 🛠 Services
 
-**SAP FI – Accounts Payable**
-- Invoice posting (FB60, MIRO)
-- Payment runs (F110)
-- 3-way match analysis (Invoice, PO, GRN)
-- Dunning (F150)
-- Vendor master data cleanup
+<details>
+  <summary><strong>💼 SAP FI – Accounts Payable</strong></summary>
+
+- Invoice posting (FB60, MIRO)  
+- Payment runs (F110)  
+- 3-way match analysis (Invoice, PO, GRN)  
+- Dunning (F150)  
+- Vendor master data cleanup  
 - GR/IR clearing & reconciliation
 
-**Analytics & Reporting (SQL, Excel, Power BI, Tableau)**
-- Data cleaning & validation
-- Duplicate & anomaly detection
-- KPI dashboard design & financial reporting
-- Forecasting & trend modeling
-- Workflow visualization & approval analytics
+</details>
+
+<details>
+  <summary><strong>📊 Analytics & Reporting (SQL, Excel, Power BI, Tableau)</strong></summary>
+
+- Data cleaning & validation  
+- Duplicate & anomaly detection  
+- KPI dashboard design & financial reporting  
+- Forecasting & trend modeling  
+- Workflow visualization & approval analytics  
 - Audit-ready reconciliation support
+
+</details>
+
+<details>
+  <summary><strong>📦 Supply Chain Planning & Forecasting</strong></summary>
+
+- Demand forecast variance analysis & monitoring  
+- Safety stock and SKU segmentation (ABC, lead-time based)  
+- Supplier OTIF performance reporting  
+- Product lifecycle management (NPI & phase-out forecasting)  
+- S&OP support and cross-functional coordination tools
+
+</details>
+
 
 
 ## 🧰 Skills & Tools

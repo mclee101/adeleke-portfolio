@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I'm Adeleke
 
-A data-driven analyst transforming discrepancies into revelations blending SAP FI workflows with analytics to unlock smarter decisions 
+A data-driven supply chain analyst transforming discrepancies into revelations blending SAP FI workflows with analytics to unlock smarter decisions 
 It started with matching invoices,payment runs, setting up new supplier accounts  and reconciliations of accounts in SAP FI but I couldn’t stop questioning the patterns behind the numbers. What causes delays? Where’s the risk? Why do certain vendors spike in Q4? That curiosity turned into a passion for data, and I’ve been uncovering insights ever since.
 
 Now I use **SQL**, **Power BI**, **Excel**, and **Tableau** to:

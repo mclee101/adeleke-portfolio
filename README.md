@@ -97,8 +97,11 @@ Built predictive models using Excel forecasting and Power BI to reveal hidden pa
 **How**: Analyzed historical vs actual demand using Excel models and Power BI dashboards; segmented data by customer class and seasonality  
 **Tools**: Excel, Power BI, SQL  
 **Accomplishment**:
-- Reduced forecast error by **±8%**
-- Introduced visual forecast variance reporting used in monthly S&OP meetings
+- Reduced forecast error from ±19% to **±8%**
+- Introduced forecast variance dashboard used in S&OP
+
+![Forecast Dashboard](./forecast-dashboard.png)
+
 
 ---
 ### 📈 Safety Stock Optimization  
@@ -118,7 +121,7 @@ Built predictive models using Excel forecasting and Power BI to reveal hidden pa
 **Accomplishment**:
 - Increased OTIF score
 - Flagged  high-risk suppliers for quarterly reviews and SLA renegotiation
-
+![Supplier OTIF Chart](./otif-chart.png)
 ---
 
 ### 🆕 NPI & Product Lifecycle Forecasting  
@@ -128,7 +131,7 @@ Built predictive models using Excel forecasting and Power BI to reveal hidden pa
 **Accomplishment**:
 - Achieved forecast adherence** in first 8 weeks post-launch  
 - Phased out 3 legacy SKUs with zero excess stock
-
+![NPI Forecast Snapshot](./npi-forecast-snapshot.png)
 ---
 
 ### 🤝 Demand Review & S&OP Process Support  
@@ -138,7 +141,7 @@ Built predictive models using Excel forecasting and Power BI to reveal hidden pa
 **Accomplishment**:
 - Reduced forecast bias 
 - Streamlined communication across 4 internal functions
-
+![S&OP Slide Preview](./sop-slide.png)
 
 ## 🛠 Services
 
